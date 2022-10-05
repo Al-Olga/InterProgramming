@@ -24,5 +24,5 @@ else if (razr2>razr1)
 }
 else 
 {
-    Console.WriteLine("числа {0} и {1} равны ", razr1 + razr2);
+    Console.WriteLine("числа {0} и {1} равны ", razr1, razr2);
 }
