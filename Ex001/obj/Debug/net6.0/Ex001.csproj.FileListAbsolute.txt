@@ -1,0 +1,15 @@
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\bin\Debug\net6.0\Ex001.exe
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\bin\Debug\net6.0\Ex001.deps.json
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\bin\Debug\net6.0\Ex001.runtimeconfig.json
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\bin\Debug\net6.0\Ex001.dll
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\bin\Debug\net6.0\Ex001.pdb
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\obj\Debug\net6.0\Ex001.csproj.AssemblyReference.cache
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\obj\Debug\net6.0\Ex001.GeneratedMSBuildEditorConfig.editorconfig
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfoInputs.cache
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\obj\Debug\net6.0\Ex001.AssemblyInfo.cs
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\obj\Debug\net6.0\Ex001.csproj.CoreCompileInputs.cache
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\obj\Debug\net6.0\Ex001.dll
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\obj\Debug\net6.0\refint\Ex001.dll
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\obj\Debug\net6.0\Ex001.pdb
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\obj\Debug\net6.0\Ex001.genruntimeconfig.cache
+D:\обучение\GB IT test\знакомство с языками программирования\Seminar1\Examples\Ex001\obj\Debug\net6.0\ref\Ex001.dll
