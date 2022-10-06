@@ -3,17 +3,12 @@
 int numberA = new Random().Next(10,100);
 Console.WriteLine(numberA);
 
-int razr1 = numberA/10;
-int razr2 = numberA; 
+int razr1; 
+int razr2; 
 
-while (razr2>10)
-{
-    razr2=razr2-10;
-}
-if (razr2==10)
-{
-    razr2=0;
-}
+razr1 = numberA/10;
+razr2 = numberA%10; 
+
 if (razr1>razr2)
 {
     Console.WriteLine("Наибольшая цифра числа {0}: {1}", numberA, razr1);
